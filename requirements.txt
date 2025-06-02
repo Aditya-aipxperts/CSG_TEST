@@ -1,3 +1,9 @@
 fastapi==0.95.2
 uvicorn==0.22.0
 pydantic==1.10.7
+requests
+python-dotenv
+google-generativeai
+google-api-python-client
+google-auth
+google-auth-oauthlib
